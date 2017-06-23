@@ -1,0 +1,9 @@
+*.log
+/node_modules
+/lib
+.gobble
+.gobble-build
+.gobble-watch
+Thumbs.db
+/.idea/
+/le_node.iml
